@@ -67,8 +67,7 @@ Then go to http://127.0.0.1:8000 in your browser
 ## Appointment page
 ![image](https://user-images.githubusercontent.com/19981097/57323887-778ef980-7128-11e9-9a87-90d249a03577.png)
 
-## Admin Panel
-![image](https://user-images.githubusercontent.com/19981097/57323932-93929b00-7128-11e9-9dc0-ba53e5c9e1b1.png)
+
 
 
 
